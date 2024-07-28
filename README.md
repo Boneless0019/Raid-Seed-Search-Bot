@@ -126,4 +126,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## GitHub Repository
 
-[Source Code](https://github.com/your-repo-url](https://github.com/Boneless0019/Raid-Seed-Search-Bot))
+[Source Code](https://github.com/Boneless0019/Raid-Seed-Search-Bot)
